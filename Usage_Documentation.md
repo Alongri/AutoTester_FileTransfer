@@ -11,6 +11,8 @@ In this option, you can copy various types of files between projects, whether th
 3. Specify the destination location to which you want to copy (please select the entire repository and not a specific path).
 4. Enter the project name to which you want to copy. If you're copying a campaign, provide a new project name.
 
+![Copy from Local Branch](copy_from_local_branch.png)
+
 ## 2. Copy from Remote Branch
 
 In this option, you can connect to a Bitbucket server and select files from the list of all branches that exist in the master branch. The process is similar to "Copy from Local Branch" and includes the following steps:
@@ -18,6 +20,8 @@ In this option, you can connect to a Bitbucket server and select files from the 
 1. Connect to the Bitbucket server.
 2. Choose the branch from which you want to copy a campaign, test, or procedure.
 3. Specify the destination location to which you want to copy the selected files.
+
+![Copy from Remote Branch](https://example.com/images/copy_from_remote_branch.png)
 
 ## Option Tab
 
