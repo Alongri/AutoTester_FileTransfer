@@ -1,0 +1,8 @@
+{
+    "appearance_mode": "System",
+    "ui_scaling": "100%",
+    "default_path_to_copy": "C:\\QA\\autotester_tools",
+    "default_url_https_link": "http://bitbucket-rh7:7990/scm/prod/autotester_tools.git",
+    "default_radio_button_value": 2,
+    "default_git_repository": "C:\\QA\\autotester_tools"
+}
