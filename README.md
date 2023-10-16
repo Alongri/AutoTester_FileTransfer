@@ -1,5 +1,5 @@
 # AutoTester FileTransfer
-[logo](https://github.com/Alongri/AutoTester_FileTransfer/blob/main/images/autotester-filetransfer-logo.jpg)
+![logo](https://github.com/Alongri/AutoTester_FileTransfer/blob/main/images/autotester-filetransfer-logo.jpg)
 
 AutoTester FileTransfer is a versatile tool designed to streamline the process of transferring AutoTester files between Git repositories. Whether you need to move files between branches within the same repository or copy files from external sources into your projects, AutoTester FileTransfer has got you covered.
 
