@@ -25,8 +25,8 @@ Simplify your AutoTester file management with AutoTester FileTransfer. Whether y
 
 ## Get Started
 
-1. [Installation Guide](link_to_installation_guide)
-2. [Usage Documentation](link_to_user_documentation)
+1. [Usage Documentation](link_to_user_documentation)
+2. [Download Here](link_to_user_documentation)
 
 Feel free to contribute or report issues – we welcome your feedback and support!
 
