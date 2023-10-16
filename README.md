@@ -25,8 +25,8 @@ Simplify your AutoTester file management with AutoTester FileTransfer. Whether y
 
 ## Get Started
 
-1. [Usage Documentation](link_to_user_documentation)
-2. [Download Here](link_to_user_documentation)
+1. [Usage Documentation](https://github.com/Alongri/AutoTester_FileTransfer/blob/main/Usage_Documentation.md)
+2. [Download Here](https://github.com/Alongri/AutoTester_FileTransfer/blob/main/Autotester_FileTransfer.zip)
 
 Feel free to contribute or report issues – we welcome your feedback and support!
 
